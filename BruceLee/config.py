@@ -4,9 +4,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Telethon Configuration
-API_ID = int(os.getenv("API_ID", ""))
-API_HASH = os.getenv("API_HASH", "")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")
+API_ID = int(os.getenv("API_ID", "15697434"))
+API_HASH = os.getenv("API_HASH", "030edfd383cecc96bee1c9a8addccc5d")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "7880763749:AAEq8czTTs5YHXppwpFVGR1_rLbxFyD9Xio")
 
 # Database Configuration
 DB_URI = os.getenv("DB_URI", "sqlite:///brucelee.db")
