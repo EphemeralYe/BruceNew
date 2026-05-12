@@ -1,0 +1,5 @@
+telethon==1.36.0
+sqlalchemy==2.0.23
+python-dotenv==1.0.0
+cryptography==41.0.7
+aiohttp==3.9.1
